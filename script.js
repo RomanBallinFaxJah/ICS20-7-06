@@ -1,5 +1,5 @@
 let myage
-myage = 15
+const myage = 15
 let guess
 
 while (guess !== myage) {
