@@ -1,3 +1,4 @@
+let myage
 myage = 15
 let guess
 
