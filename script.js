@@ -1,4 +1,3 @@
-let myage
 const myage = 15
 let guess
 
